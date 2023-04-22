@@ -3,7 +3,7 @@ from tkinter import ttk
 import webbrowser
 import secrets
 import sys
-sys.path.append('../MarkUpProject')
+sys.path.append('../Charity_Network')
 
 from backend.register_charity import sql_GET
 
